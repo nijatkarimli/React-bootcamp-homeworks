@@ -1,0 +1,10 @@
+.btn-input {
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 100px;
+  width: 100px;
+  border: 7px 7px 7px 7px;
+  border-color: yellow;
+}

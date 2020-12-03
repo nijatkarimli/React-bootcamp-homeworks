@@ -1,0 +1,6 @@
+.movie-category-row > td {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: black;
+    color: white; 
+}

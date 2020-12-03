@@ -1,0 +1,11 @@
+.dashboard {
+  text-align: center;
+  background-color: yellowgreen;
+  width: 300px;
+}
+.dashboard > .dash-btn {
+  color: black;
+  background-color: darkorange;
+  width: 150px;
+  height: 50px;
+}

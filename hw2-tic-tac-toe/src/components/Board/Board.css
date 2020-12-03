@@ -1,0 +1,10 @@
+.board-container-input {
+  display: grid;
+  grid-template: "repeat(3, 1fr) / repeat(3, 1fr)";
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 100px 100px 100px;
+}
+.board-message {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
